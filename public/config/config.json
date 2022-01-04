@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x764d0684C756d68CF790ae634a3202be8113462A",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x764d0684C756d68CF790ae634a3202be8113462A",
+  "NETWORK": {
+    "NAME": "Rinkeby Testnetzwerk",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Rahim, der Flipper2",
+  "SYMBOL": "Boss2",
+  "MAX_SUPPLY": 9,
+  "WEI_COST": 400000000000000000,
+  "DISPLAY_COST": 0.4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/rahim-der-flipper2",
+  "SHOW_BACKGROUND": true
+}
