@@ -11,5 +11,18 @@
       "StackId": "arn:aws:cloudformation:us-east-1:933252075322:stack/amplify-mintdapp-dev-13527/0cf044d0-70e4-11ec-bb92-0a28fa7164cf",
       "AmplifyAppId": "d24lolve923wb3"
     }
+  },
+  "applive": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mintdapp-applive-134332-authRole",
+      "UnauthRoleArn": "arn:aws:iam::933252075322:role/amplify-mintdapp-applive-134332-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::933252075322:role/amplify-mintdapp-applive-134332-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-mintdapp-applive-134332-deployment",
+      "UnauthRoleName": "amplify-mintdapp-applive-134332-unauthRole",
+      "StackName": "amplify-mintdapp-applive-134332",
+      "StackId": "arn:aws:cloudformation:us-east-1:933252075322:stack/amplify-mintdapp-applive-134332/c1ed2be0-7149-11ec-8621-0ea41aa7401b",
+      "AmplifyAppId": "d24lolve923wb3"
+    }
   }
 }
