@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "mintdapp",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/daniel/Desktop/nft-minting-app-mainWORKS/amplify/backend/api/mintdapp/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}

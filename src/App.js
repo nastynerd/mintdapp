@@ -164,8 +164,8 @@ function App() {
 
   const incrementMintAmount = () => {
     let newMintAmount = mintAmount + 1;
-    if (newMintAmount > 50) {
-      newMintAmount = 50;
+    if (newMintAmount > 10) {
+      newMintAmount = 10;
     }
     setMintAmount(newMintAmount);
   };
@@ -272,7 +272,7 @@ function App() {
                 {CONFIG.MARKETPLACE}
               </StyledButton>       
 
-
+              
 
 
             </span>
@@ -302,6 +302,54 @@ function App() {
                   invest {CONFIG.DISPLAY_COST}{" "}{CONFIG.NETWORK.SYMBOL} for 1 {CONFIG.SYMBOL}.
                 </s.TextTitle>
                 <s.SpacerXSmall />
+
+
+
+
+
+
+
+
+
+
+                <StyledRoundButton
+                        style={{ lineHeight: 0.4 }}
+                        disabled={claimingNft ? 1 : 0}
+                        onClick={(e) => {
+                          e.preventDefault();
+                          decrementMintAmount();
+                        }}
+                      >
+                        -
+                      </StyledRoundButton>
+
+                      
+                      <s.TextDescription
+                        style={{
+                          textAlign: "center",
+                          color: "var(--accent-text)",
+                        }}
+                      >
+                        {mintAmount}
+                      </s.TextDescription>
+
+
+                      <StyledRoundButton
+                        disabled={claimingNft ? 1 : 0}
+                        onClick={(e) => {
+                          e.preventDefault();
+                          incrementMintAmount();
+                        }}
+                      >
+                        +
+                      </StyledRoundButton>
+
+
+
+
+
+
+
 
 
 

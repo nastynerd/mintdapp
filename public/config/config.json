@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x764d0684C756d68CF790ae634a3202be8113462A",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x764d0684C756d68CF790ae634a3202be8113462A",
+  "CONTRACT_ADDRESS": "0x2e3aa79F1854230497586cD83bd720b1D006183B",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x2e3aa79F1854230497586cD83bd720b1D006183B",
   "NETWORK": {
     "NAME": "Rinkeby Testnetzwerk",
     "SYMBOL": "ETH",
     "ID": 4
   },
-  "NFT_NAME": "Rahim, der Flipper2",
-  "SYMBOL": "Boss2",
-  "MAX_SUPPLY": 9,
-  "WEI_COST": 400000000000000000,
-  "DISPLAY_COST": 0.4,
+  "NFT_NAME": "SOULSQUADS",
+  "SYMBOL": "SOULSQUADS",
+  "MAX_SUPPLY": 4,
+  "WEI_COST": 100000000000000,
+  "DISPLAY_COST": 0.01,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/rahim-der-flipper2",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/xxxxxxxxx9-v2",
   "SHOW_BACKGROUND": true
 }

@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mintdapp-dev-13527-authRole",
+      "UnauthRoleArn": "arn:aws:iam::933252075322:role/amplify-mintdapp-dev-13527-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::933252075322:role/amplify-mintdapp-dev-13527-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-mintdapp-dev-13527-deployment",
+      "UnauthRoleName": "amplify-mintdapp-dev-13527-unauthRole",
+      "StackName": "amplify-mintdapp-dev-13527",
+      "StackId": "arn:aws:cloudformation:us-east-1:933252075322:stack/amplify-mintdapp-dev-13527/0cf044d0-70e4-11ec-bb92-0a28fa7164cf",
+      "AmplifyAppId": "d24lolve923wb3"
+    }
+  }
+}
