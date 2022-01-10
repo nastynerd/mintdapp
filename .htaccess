@@ -1,6 +1,6 @@
 <Files index.html>
 AuthName "Dialog prompt"
 AuthType Basic
-AuthUserFile /Users/daniel/Desktop/nft-minting-app-mainWORKS/public/.htpasswd
+AuthUserFile ./public/.htpasswd
 Require valid-user
 </Files>
