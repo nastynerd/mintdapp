@@ -1,6 +1,0 @@
-<Files index.html>
-AuthName "Dialog prompt"
-AuthType Basic
-AuthUserFile ./public/.htpasswd
-Require valid-user
-</Files>
