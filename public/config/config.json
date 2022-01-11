@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x2e3aa79F1854230497586cD83bd720b1D006183B",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x2e3aa79F1854230497586cD83bd720b1D006183B",
+  "CONTRACT_ADDRESS": "0x209f3abf592d8DA1B1cEBaB53971f0715Ffbd3F8",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x209f3abf592d8DA1B1cEBaB53971f0715Ffbd3F8",
   "NETWORK": {
     "NAME": "Rinkeby Testnetzwerk",
     "SYMBOL": "ETH",
@@ -8,11 +8,11 @@
   },
   "NFT_NAME": "SOULSQUADS",
   "SYMBOL": "SOULSQUADS",
-  "MAX_SUPPLY": 4,
-  "WEI_COST": 100000000000000,
-  "DISPLAY_COST": 0.01,
+  "MAX_SUPPLY": 5,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/xxxxxxxxx9-v2",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/",
   "SHOW_BACKGROUND": true
 }
